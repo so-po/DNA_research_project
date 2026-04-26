@@ -1,4 +1,4 @@
-A prototpe website for a writing class, where I wrote a research paper on DNA data storage, and how methods for encoding data in DNA could be inherently biosecure.
+This is a prototpe website for a writing class I took, where I wrote a research paper on DNA data storage, and how methods for encoding data in DNA could be inherently biosecure.
 
 Here is the website: https://so-po.github.io/DNA_research_project/
 
